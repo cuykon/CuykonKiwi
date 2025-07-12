@@ -17,3 +17,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+backstage:
+  label: Backstage 
+  permalink: /backstage
+  description: Everything about the backstage of Cuykon development and Tuberoh's life
