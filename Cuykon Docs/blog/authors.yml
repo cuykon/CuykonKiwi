@@ -24,13 +24,13 @@ slorber:
     github: slorber
     newsletter: https://thisweekinreact.com
 
-    tuberoh:
-    name: Tuberoh  
-    title: Cuykon maintainer
-    image_url: https://avatars.githubusercontent.com/u/165823057?v=4
-    page:
+  tuberoh:
+  name: Tuberoh  
+  title: Cuykon maintainer
+  image_url: https://avatars.githubusercontent.com/u/165823057?v=4
+  page:
       permalink: '/all-tuberoh-articles'
-    socials:
+  socials:
     x: applebrioche
     github: tuberoh
 
