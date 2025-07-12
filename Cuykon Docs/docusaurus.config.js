@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/cuykon/CuykonKiwi/tree/main/CuykonDocs/docs/',
+            'https://github.com/cuykon/CuykonKiwi/tree/main/CuykonDocs/',
         },
         blog: {
           showReadingTime: true,
@@ -62,7 +62,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/cuykon/CuykonKiwi/tree/main/CuykonDocs/blog/',
+            'https://github.com/cuykon/CuykonKiwi/tree/main/CuykonDocs/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -81,9 +81,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Cuykon Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Cuykon Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -95,7 +95,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/cuykon',
             label: 'GitHub',
             position: 'right',
           },
@@ -117,16 +117,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Tiktok',
+                href: 'https://tiktok.com/@cuykon.cc',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Instagram',
+                href: 'https://instagram.com/cuykon.cc',
               },
             ],
           },
@@ -138,8 +134,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Easter Egg',
+                href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&ab_channel=RickAstley',
               },
             ],
           },
