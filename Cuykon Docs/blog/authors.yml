@@ -10,27 +10,15 @@ yangshun:
     github: yangshun
     newsletter: https://www.greatfrontend.com
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+tuberoh:
+  name: Tuberoh  
+  title: Cuykon maintainer
+  image_url: https://avatars.githubusercontent.com/u/165823057?v=4    
   page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    permalink: '/all-tuberoh-articles'
+  social:
+  x: applebrioche
+  github: tuberoh
 
-    tuberoh:
-    name: Tuberoh  
-    title: Cuykon maintainer
-    image_url: https://avatars.githubusercontent.com/u/165823057?v=4
-    page:
-      permalink: '/all-tuberoh-articles'
-    social:
-    x: applebrioche
-    github: tuberoh
+
 
