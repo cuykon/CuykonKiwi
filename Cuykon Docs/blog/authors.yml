@@ -26,11 +26,12 @@ slorber:
 
 tuberoh:
   name: Tuberoh  
-  title: Cuykon maintainer
+  title: An apple brioche in real life
   image_url: https://avatars.githubusercontent.com/u/165823057?v=4
   page:
       permalink: '/all-tuberoh-articles'
   socials:
     x: applebrioche
     github: tuberoh
+    reddit: tuberoh
 
