@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Cuykon Docs',
+  title: 'About & More',
   tagline: 'All about the cuykon project',
   favicon: 'img/favicon.ico',
 
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/cuykon/CuykonKiwi/tree/main/CuykonDocs/',
+            'https://github.https://github.com/cuykon/CuykonKiwi/tree/main/Cuykon%20Docs/docs/cuykon/CuykonKiwi/CuykonDocs/',
         },
         blog: {
           showReadingTime: true,
@@ -62,7 +62,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/cuykon/CuykonKiwi/tree/main/CuykonDocs/',
+            'https://github.com/cuykon/CuykonKiwi/tree/main/Cuykon%20Docs/blog',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -81,7 +81,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Cuykon Docs',
+        title: 'Cuykon.docx',
         logo: {
           alt: 'Cuykon Logo',
           src: 'img/logo.svg',
