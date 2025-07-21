@@ -34,7 +34,7 @@
 }
 
 [data-theme='light'] .footer a {
-  color: var(--docusaurus-highlighted-code-line-bg);
+  color: var(--ifm-color-primary-lightest);
 }
 
 [data-theme='dark'] .footer {
