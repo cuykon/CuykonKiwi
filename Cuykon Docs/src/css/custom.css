@@ -30,7 +30,7 @@
 }
 [data-theme='light'] .footer {
   background-color: var(--ifm-color-primary-light);
-  color: var(--ifm-color-primary-lighter);
+  color: var(--ifm-color-primary-lightest);
 }
 
 [data-theme='light'] .footer a {
