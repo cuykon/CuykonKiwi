@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'About & More',
+  title: 'Cuykon.docx',
   tagline: 'All about the cuykon project',
   favicon: 'img/favicon.ico',
 
