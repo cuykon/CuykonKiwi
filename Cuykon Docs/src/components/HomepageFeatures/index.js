@@ -4,42 +4,47 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Semplicity',
+    Image: require('@site/static/img/clickingcuykon.gif').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Cuykon is a simple webgame where you click
+        and you enjoy the sounds. Simply Lovely!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Different buttons for different Cuykoners!',
+    Svg: require('@site/static/img/cardset.webp').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Cuykon offers multiple type of buttons: Naruto, Chill and more.
+        Visit the main site to find out!
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'An Hobby made with passion',
+    Svg: require('@site/static/img/hearthonn.webp').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Cuykon is an hobby project of a young student who wants
+        to express his creativity. All you see is made with love
+        on the desk!
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, Image, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {Image ? (
+          <img src={Image} className={styles.featureSvg} alt={title} />
+        ) : Svg ? (
+          <Svg className={styles.featureSvg} role="img" />
+        ) : null}
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
@@ -48,6 +53,7 @@ function Feature({Svg, title, description}) {
     </div>
   );
 }
+
 
 export default function HomepageFeatures() {
   return (
