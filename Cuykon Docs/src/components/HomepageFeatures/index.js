@@ -30,7 +30,7 @@ const FeatureList = [
       <>
         Cuykon is an hobby project of a young student who wants
         to express his creativity. All you see is made with love
-        on the desk!
+        and hole on the desk!
       </>
     ),
   },
