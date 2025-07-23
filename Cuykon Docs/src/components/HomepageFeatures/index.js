@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Different buttons for different Cuykoners!',
-    Svg: require('@site/static/img/cardset.webp').default,
+    Image: require('@site/static/img/cardset.webp').default,
     description: (
       <>
         Cuykon offers multiple type of buttons: Naruto, Chill and more.
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'An Hobby made with passion',
-    Svg: require('@site/static/img/hearthonn.webp').default,
+    Image: require('@site/static/img/hearthonn.webp').default,
     description: (
       <>
         Cuykon is an hobby project of a young student who wants
@@ -36,15 +36,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, Image, title, description}) {
+function Feature({Image, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        {Image ? (
-          <img src={Image} className={styles.featureSvg} alt={title} />
-        ) : Svg ? (
-          <Svg className={styles.featureSvg} role="img" />
-        ) : null}
+        <img src={Image} className={styles.featureSvg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
@@ -53,6 +49,7 @@ function Feature({Svg, Image, title, description}) {
     </div>
   );
 }
+
 
 
 export default function HomepageFeatures() {
