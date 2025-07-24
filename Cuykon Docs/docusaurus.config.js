@@ -88,6 +88,18 @@ const config = {
       dataDomains: 'apple.cuykon.cc',
     },
   ],
+  [
+    '@docusaurus/plugin-content-blog',
+    {
+      id: 'changelog',
+      routeBasePath: 'changelog',
+      path: './changelog',
+      blogTitle: 'Changelog',
+      blogDescription: 'Updates and versions of Cuykon!',
+      postsPerPage: 'ALL',
+      showReadingTime: false,
+    },
+  ],
 ],
 
 
@@ -110,6 +122,7 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/changelog', label: 'Changelog', position: 'left'},
           {
             type: 'html',
             position: 'right',
