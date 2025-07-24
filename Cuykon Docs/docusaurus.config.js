@@ -144,6 +144,10 @@ const config = {
                 label: 'Instagram',
                 href: 'https://instagram.com/cuykon.cc',
               },
+              {
+                label: 'Discord',
+                href: 'https://discord.cuykon.cc',
+              },
             ],
           },
           {
