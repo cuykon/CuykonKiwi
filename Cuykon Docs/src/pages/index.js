@@ -17,11 +17,14 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link
+          <a
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
+            href="https://cuykon.cc"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+          Start your cliking experience! 🔥
+          </a>
         </div>
       </div>
     </header>
