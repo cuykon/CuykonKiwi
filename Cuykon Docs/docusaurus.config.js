@@ -75,6 +75,24 @@ const config = {
     ],
   ],
 
+  plugins: [
+  [
+    '@dipakparmar/docusaurus-plugin-umami',
+    {
+      websiteID: '208b2ec4-1422-4c1f-b179-2bc763057d15',
+      analyticsDomain: 'analytics.umami.is',
+      // Facoltativi
+      scriptName: '',
+      dataHostURL: '',
+      dataAutoTrack: true,
+      dataDoNotTrack: true,
+      dataCache: true,
+      dataDomains: 'apple.cuykon.cc',
+    },
+  ],
+],
+
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
