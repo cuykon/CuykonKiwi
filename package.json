@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@dipakparmar/docusaurus-plugin-umami": "^2.3.0"
+  }
+}
