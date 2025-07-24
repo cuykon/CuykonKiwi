@@ -1,6 +1,6 @@
 ---
 slug: version-alpha
-Title: Version Alpha
+Title: "Version Alpha"
 authors: tuberoh
 tags: [backstage]
 
