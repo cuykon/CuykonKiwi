@@ -141,8 +141,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Changelog',
+                to: '/changelog',
               },
             ],
           },
@@ -172,7 +172,7 @@ const config = {
               },
               {
                 label: 'Status Page',
-                href: 'https://stutus.cuykon.cc',
+                href: 'https://status.cuykon.cc',
               },
               {
                 label: 'Easter Egg',
