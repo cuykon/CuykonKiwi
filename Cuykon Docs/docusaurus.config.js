@@ -115,7 +115,7 @@ const config = {
             position: 'right',
             value: `
               <a href="https://github.com/cuykon" target="_blank" rel="noopener noreferrer">
-              <img src="/img/github.png" alt="GitHub" style="height: 24px; margin-top: 4px;" />
+              <img src="/img/github.png" alt="GitHub" style="height: 40px; margin-top: 4px;" />
               </a>
             `,
           },
