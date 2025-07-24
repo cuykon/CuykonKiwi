@@ -81,9 +81,7 @@ const config = {
     {
       websiteID: '208b2ec4-1422-4c1f-b179-2bc763057d15',
       analyticsDomain: 'analytics.umami.is',
-      // Facoltativi
-      scriptName: '',
-      dataHostURL: '',
+      scriptName: 'script.js',
       dataAutoTrack: true,
       dataDoNotTrack: true,
       dataCache: true,
