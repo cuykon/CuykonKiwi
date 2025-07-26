@@ -1,25 +1,15 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+release:
+  label: Release
+  permalink: /release
+  description: Tag for release
 
 backstage:
   label: Backstage 
   permalink: /backstage
   description: Everything about the backstage of Cuykon development and Tuberoh's life
+
+  lebron:
+    label: Lebron
+    permalin: /lebron
+    description: LEEEEEBBBBROOOOOON!!!
   
