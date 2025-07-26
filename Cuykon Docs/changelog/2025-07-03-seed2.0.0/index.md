@@ -18,7 +18,7 @@ Over the past few months, I’ve been working on a new update to improve the exp
 <!-- truncate -->
 
 Authentication system, records, leaderboard, sharing with friends—and expect much more to come.
-P.S. I’ve left a few bugs on the site. The challenge I’m giving you is to find them and report them to me on Discord or on the dedicated GitHub repo! </br>
+P.S. I’ve left a few bugs on the site. The challenge I’m giving you is to find them and report them to me on Discord or on the dedicated GitHub repo! <br/>
 **(Discord role up for grabs for true explorers!)**
 
 
