@@ -172,6 +172,12 @@ const config = {
                 to: '/blog',
               },
               {
+
+                label: 'Cuykon',
+                href: 'https://cuykon.cc'
+
+              },
+              {
                 label: 'Status Page',
                 href: 'https://status.cuykon.cc',
               },
