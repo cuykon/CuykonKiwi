@@ -8,8 +8,8 @@ backstage:
   permalink: /backstage
   description: Everything about the backstage of Cuykon development and Tuberoh's life
 
-  lebron:
-    label: Lebron
-    permalin: /lebron
-    description: LEEEEEBBBBROOOOOON!!!
+lebron:
+  label: Lebron
+  permalink: /lebron
+  description: LEEEEEBBBBROOOOOON!!!
   
