@@ -46,13 +46,6 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        //docs: {
-        //  sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-        //  // Remove this to remove the "edit this page" links.
-        //  editUrl:
-        //    'https://github.https://github.com/cuykon/CuykonKiwi/tree/main/Cuykon%20Docs/docs/cuykon/CuykonKiwi/CuykonDocs/',
-        //},
         blog: {
           showReadingTime: true,
           feedOptions: {
